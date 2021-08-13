@@ -1,2 +1,3 @@
-# streamlit
+# Streamlit
+
 Streamlit Applications
