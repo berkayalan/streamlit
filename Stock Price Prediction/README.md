@@ -1,10 +1,10 @@
 ## Stock Price Prediction
 
-![Taxi](taxi.png)
+![Stocks](stocks.jpg)
 
-The competition dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of this playground competition. Based on individual trip attributes, participants should predict the duration of each trip in the test set.
+The stock market refers to the collection of markets and exchanges where regular activities of buying, selling, and issuance of shares of publicly-held companies take place. Such financial activities are conducted through institutionalized formal exchanges or over-the-counter (OTC) marketplaces which operate under a defined set of regulations. There can be multiple stock trading venues in a country or a region which allow transactions in stocks and other forms of securities.
 
-In this application, I only used train dataset. You can check it out [here](https://www.kaggle.com/c/nyc-taxi-trip-duration/data).
+In this application, I got data from Yahoo Finance. You can check it out [here](https://finance.yahoo.com/most-active).
 
 
 
